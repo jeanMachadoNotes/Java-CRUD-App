@@ -1,6 +1,16 @@
 # JAVA CLI CRUD App
 A CRUD (Create, Read, Update, and Delete) application for the command line, built in Java.
 
-See the app in action below (video)
+## Using the Command Line
+The App is displayed in the console. You are prompted with initial options to Add, Update, Read One, Read All, or Remove Items from the list.
 
-https://github.com/user-attachments/assets/8e0771e3-6a7b-424c-a780-d0572671ecb9
+Each item is given 3 properties, ID, Name, and Description, which you set when you create it.
+
+## Video
+See adding an item and then updating it's description in the video below.
+
+
+
+
+https://github.com/user-attachments/assets/3c8ca649-6d1c-45b4-960c-3e03912c4258
+
